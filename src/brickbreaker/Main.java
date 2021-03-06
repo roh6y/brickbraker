@@ -7,7 +7,7 @@ package brickbreaker;
 	        JFrame obj = new JFrame();
 	        Gameplay gameplay = new Gameplay();
 	        obj.setBounds(10,10,700,600);
-	        obj.setTitle("Brick Breaker");
+	        obj.setTitle("Brick Breaker Game");
 	        obj.setResizable(false);
 	        obj.setVisible(true);
 	        obj.setLocationRelativeTo(null);
